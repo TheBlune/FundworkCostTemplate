@@ -3,6 +3,7 @@
   "totalcosts": 15000,
   "currentcapital": 23598,
   "startcapital": 14000,
+  "currency": "€",
   "costs":[
     {
       "name": "XYZ.de",
