@@ -1,8 +1,8 @@
 {
   "fdate": "2021-04-03T06:45:32.337Z",
-  "totalcosts": 15.000,
-  "currentcapital": 23.598,
-  "startcapital": 14.000,
+  "totalcosts": 15000,
+  "currentcapital": 23598,
+  "startcapital": 14000,
   "costs":[
     {
       "name": "XYZ.de",
