@@ -6,19 +6,19 @@
   "costs":[
     {
       "name": "XYZ.de",
-      "category": "hosting",
+      "category": "Hosting",
       "amount": 50,
       "info":"Tarif Basic XL 1TB. Upgrade from Tarif Basic M due to higher traffic on the site."
     },
     {
       "name": "DomainL.de",
-      "category": "hosting",
+      "category": "Hosting",
       "amount": 9,
       "info":"For holding three domains: ..."
     },
     {
       "name": "Writing Articles",
-      "category": "content creation",
+      "category": "Content Creation",
       "amount": 23,
       "info":""
     },
