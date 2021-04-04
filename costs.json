@@ -1,8 +1,8 @@
 {
-  "fdate": "2021-04-03T06:45:32.337Z",
+  "fdate": "2021-02-03T06:45:32.337Z",
   "totalcosts": 202,
-  "costsdate": "2021-04-03T06:45:32.337Z",
-  "currentcapital": 768,
+  "costsdate": "2020-04-03T06:45:32.337Z",
+  "currentcapital": 673,
   "startcapital": 700,
   "currency": "€",
   "costs":[
@@ -33,7 +33,7 @@
   ],
   "capitalsources": [
     {
-      "month": "2021-04-03T06:45:32.337Z",
+      "month": "2020-04-03T06:45:32.337Z",
       "sources": [
         {
           "name": "Donations",
@@ -73,7 +73,7 @@
       ]
     },
     {
-      "month": "2021-05-03T06:45:32.337Z",
+      "month": "2020-05-03T06:45:32.337Z",
       "sources": [
         {
           "name": "Donations",
@@ -111,6 +111,327 @@
           "info":""
         }
       ]
+    },
+    {
+      "month": "2020-06-03T06:45:32.337Z",
+      "sources": [
+        {
+          "name": "Donations",
+          "category": "Tier 1",
+          "amount": 0,
+          "recurring": 0,
+          "info":""
+        },
+        {
+          "name": "Memberships",
+          "category": "Tier 1",
+          "amount": 8,
+          "recurring": 1,
+          "info":""
+        },
+        {
+          "name": "Patreon",
+          "category": "Tier 2",
+          "amount": 15,
+          "recurring": 0,
+          "info":""
+        },
+        {
+          "name": "Ads",
+          "category": "Tier 2",
+          "amount": 23,
+          "recurring": 0,
+          "info":""
+        },
+        {
+          "name": "Subsidies",
+          "category": "Tier 2",
+          "amount": 100,
+          "recurring": 1,
+          "info":""
+        }
+      ]
+    },
+    {
+      "month": "2020-07-03T06:45:32.337Z",
+      "sources": [
+        {
+          "name": "Donations",
+          "category": "Tier 1",
+          "amount": 50,
+          "recurring": 0,
+          "info":""
+        },
+        {
+          "name": "Memberships",
+          "category": "Tier 1",
+          "amount": 8,
+          "recurring": 1,
+          "info":""
+        },
+        {
+          "name": "Patreon",
+          "category": "Tier 2",
+          "amount": 15,
+          "recurring": 0,
+          "info":""
+        },
+        {
+          "name": "Ads",
+          "category": "Tier 2",
+          "amount": 23,
+          "recurring": 0,
+          "info":""
+        },
+        {
+          "name": "Subsidies",
+          "category": "Tier 2",
+          "amount": 100,
+          "recurring": 1,
+          "info":""
+        }
+      ]
+    },
+    {
+      "month": "2020-08-03T06:45:32.337Z",
+      "sources": [
+        {
+          "name": "Donations",
+          "category": "Tier 1",
+          "amount": 20,
+          "recurring": 0,
+          "info":""
+        },
+        {
+          "name": "Memberships",
+          "category": "Tier 1",
+          "amount": 8,
+          "recurring": 1,
+          "info":""
+        },
+        {
+          "name": "Patreon",
+          "category": "Tier 2",
+          "amount": 15,
+          "recurring": 0,
+          "info":""
+        },
+        {
+          "name": "Ads",
+          "category": "Tier 2",
+          "amount": 23,
+          "recurring": 0,
+          "info":""
+        },
+        {
+          "name": "Subsidies",
+          "category": "Tier 2",
+          "amount": 100,
+          "recurring": 1,
+          "info":""
+        }
+      ]
+    },
+    {
+      "month": "2020-09-03T06:45:32.337Z",
+      "sources": [
+        {
+          "name": "Donations",
+          "category": "Tier 1",
+          "amount": 120,
+          "recurring": 0,
+          "info":""
+        },
+        {
+          "name": "Memberships",
+          "category": "Tier 1",
+          "amount": 8,
+          "recurring": 1,
+          "info":""
+        },
+        {
+          "name": "Patreon",
+          "category": "Tier 2",
+          "amount": 15,
+          "recurring": 0,
+          "info":""
+        },
+        {
+          "name": "Ads",
+          "category": "Tier 2",
+          "amount": 23,
+          "recurring": 0,
+          "info":""
+        },
+        {
+          "name": "Subsidies",
+          "category": "Tier 2",
+          "amount": 100,
+          "recurring": 1,
+          "info":""
+        }
+      ]
+    },
+    {
+      "month": "2020-10-03T06:45:32.337Z",
+      "sources": [
+        {
+          "name": "Donations",
+          "category": "Tier 1",
+          "amount": 25,
+          "recurring": 0,
+          "info":""
+        },
+        {
+          "name": "Memberships",
+          "category": "Tier 1",
+          "amount": 8,
+          "recurring": 1,
+          "info":""
+        },
+        {
+          "name": "Patreon",
+          "category": "Tier 2",
+          "amount": 15,
+          "recurring": 0,
+          "info":""
+        },
+        {
+          "name": "Ads",
+          "category": "Tier 2",
+          "amount": 23,
+          "recurring": 0,
+          "info":""
+        },
+        {
+          "name": "Subsidies",
+          "category": "Tier 2",
+          "amount": 100,
+          "recurring": 1,
+          "info":""
+        }
+      ]
+    },
+    {
+      "month": "2020-11-03T06:45:32.337Z",
+      "sources": [
+        {
+          "name": "Donations",
+          "category": "Tier 1",
+          "amount": 15,
+          "recurring": 0,
+          "info":""
+        },
+        {
+          "name": "Memberships",
+          "category": "Tier 1",
+          "amount": 8,
+          "recurring": 1,
+          "info":""
+        },
+        {
+          "name": "Patreon",
+          "category": "Tier 2",
+          "amount": 15,
+          "recurring": 0,
+          "info":""
+        },
+        {
+          "name": "Ads",
+          "category": "Tier 2",
+          "amount": 23,
+          "recurring": 0,
+          "info":""
+        },
+        {
+          "name": "Subsidies",
+          "category": "Tier 2",
+          "amount": 100,
+          "recurring": 1,
+          "info":""
+        }
+      ]
+    },
+    {
+      "month": "2020-12-03T06:45:32.337Z",
+      "sources": [
+        {
+          "name": "Donations",
+          "category": "Tier 1",
+          "amount": 90,
+          "recurring": 0,
+          "info":""
+        },
+        {
+          "name": "Memberships",
+          "category": "Tier 1",
+          "amount": 8,
+          "recurring": 1,
+          "info":""
+        },
+        {
+          "name": "Patreon",
+          "category": "Tier 2",
+          "amount": 15,
+          "recurring": 0,
+          "info":""
+        },
+        {
+          "name": "Ads",
+          "category": "Tier 2",
+          "amount": 23,
+          "recurring": 0,
+          "info":""
+        },
+        {
+          "name": "Subsidies",
+          "category": "Tier 2",
+          "amount": 100,
+          "recurring": 1,
+          "info":""
+        }
+      ]
+    },
+    {
+      "month": "2021-01-03T06:45:32.337Z",
+      "sources": [
+        {
+          "name": "Donations",
+          "category": "Tier 1",
+          "amount": 105,
+          "recurring": 0,
+          "info":""
+        },
+        {
+          "name": "Memberships",
+          "category": "Tier 1",
+          "amount": 8,
+          "recurring": 1,
+          "info":""
+        },
+        {
+          "name": "Patreon",
+          "category": "Tier 2",
+          "amount": 15,
+          "recurring": 0,
+          "info":""
+        },
+        {
+          "name": "Ads",
+          "category": "Tier 2",
+          "amount": 23,
+          "recurring": 0,
+          "info":""
+        },
+        {
+          "name": "Subsidies",
+          "category": "Tier 2",
+          "amount": 100,
+          "recurring": 1,
+          "info":""
+        }
+      ]
     }
+
   ]
 }
