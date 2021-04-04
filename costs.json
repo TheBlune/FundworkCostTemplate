@@ -37,35 +37,35 @@
       "sources": [
         {
           "name": "Donations",
-          "category": 1,
+          "category": "Tier 1",
           "amount": 8,
           "recurring": 0,
           "info":""
         },
         {
           "name": "Memberships",
-          "category": 1,
+          "category": "Tier 1",
           "amount": 8,
           "recurring": 1,
           "info":""
         },
         {
           "name": "Patreon",
-          "category": 2,
+          "category": "Tier 2",
           "amount": 15,
           "recurring": 0,
           "info":""
         },
         {
           "name": "Ads",
-          "category": 2,
+          "category": "Tier 2",
           "amount": 23,
           "recurring": 0,
           "info":""
         },
         {
           "name": "Subsidies",
-          "category": 2,
+          "category": "Tier 2",
           "amount": 100,
           "recurring": 1,
           "info":""
@@ -77,35 +77,35 @@
       "sources": [
         {
           "name": "Donations",
-          "category": 1,
+          "category": "Tier 1",
           "amount": 100,
           "recurring": 0,
           "info":""
         },
         {
           "name": "Memberships",
-          "category": 1,
+          "category": "Tier 1",
           "amount": 8,
           "recurring": 1,
           "info":""
         },
         {
           "name": "Patreon",
-          "category": 2,
+          "category": "Tier 2",
           "amount": 15,
           "recurring": 0,
           "info":""
         },
         {
           "name": "Ads",
-          "category": 2,
+          "category": "Tier 2",
           "amount": 23,
           "recurring": 0,
           "info":""
         },
         {
           "name": "Subsidies",
-          "category": 2,
+          "category": "Tier 2",
           "amount": 100,
           "recurring": 1,
           "info":""
