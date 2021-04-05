@@ -6,6 +6,9 @@
  - A way for users to suggest cost-optimizations via the issues-tab on this repo
  - No real-serverwork needed to get started using the [FundWork-Reports](https://github.com/TheBlune/FundWork)
 
+As updating the file for the first time may seem a bit complicated, there will be an offline-tool to help here in the future.
+This tool will help you in your monthly finances update and makes transparently communicating your costs fun. 
+
 File Structure: 
 ```
 - fdate: last date the finances have been updated 
