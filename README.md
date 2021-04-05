@@ -24,10 +24,11 @@ File Structure:
 | - sources: The different sources
   | - name: Name displayed
   | - category: e.g. "Tier1" for direct donations, that do not have as much taxes 
-  |  and "Tier2" for things like patreon where 10% of the incoming pledge is taken away. 
-  | Setting this category allows to emphasize that not every cash-flow is as welcomed as another,
+  |   and "Tier2" for things like patreon where 10% of the incoming pledge is taken away. 
+  |   Setting this category allows to emphasize that not every cash-flow is as welcomed as another,
   |   because e.g. in this example there may be middlemen cutting off money
   | - amount:  actual monthly income
-  | - recurring: set "1" here, if this amount savely comes in every month. This uses to project your capital, if you forget to update the costs for a few months
+  | - recurring: set "1" here, if this amount savely comes in every month. This uses to project your capital,
+  |   if you forget to update the costs for a few months
   | - info: Additional Info to be shown on mouseover
 ```
