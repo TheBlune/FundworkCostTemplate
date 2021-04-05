@@ -7,7 +7,7 @@
  - No real-serverwork needed to get started using the [FundWork-Reports](https://github.com/TheBlune/FundWork)
 
 File Structure: 
-'''
+```
 - fdate: last date the finances have been updated 
 - totalcosts: sum of all costs
 - costsdate: the date since when the costs havn't changed
@@ -27,4 +27,4 @@ File Structure:
   - amoutn actual monthly income
   - recurring: set "1" here, if this amount savely comes in every month. This uses to project your capital, if you forget to update the costs for a few months
   - info: Additional Info to be shown on mouseover
-'''
+```
